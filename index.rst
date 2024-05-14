@@ -11,6 +11,8 @@
    guidelines/general
    guidelines/cpp
 
+   guidelines/cs.rst
+
 
 ----------
  Projects
